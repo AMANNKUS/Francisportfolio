@@ -1,0 +1,3 @@
+sample,participant_days,distinct_participant_ids,zero_step_days,mean_daily_steps,mean_daily_calories_kcal,mean_recorded_active_minutes,mean_fairly_or_very_active_minutes,step_calorie_correlation
+All full-coverage days,988,33,170,6889.65182186,2264.13921024,209.784412955,31.4564777328,0.649962399624
+Positive-step full-coverage days,818,33,0,8321.48655257,2403.83030069,253.221271394,37.9376528117,0.556003759428

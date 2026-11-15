@@ -1,0 +1,3 @@
+cohort,available_participant_days,distinct_participant_ids,days_with_sleep_records,ids_with_sleep_records,percentage_of_available_days_with_sleep_records
+All available days,1060,35,467,23,44.0566037736
+Full activity-coverage days,988,33,447,23,45.2429149798

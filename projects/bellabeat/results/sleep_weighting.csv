@@ -1,0 +1,3 @@
+weighting_method,participant_days,distinct_participant_ids,mean_recorded_asleep_minutes,mean_recorded_asleep_hours
+Daily-record weighted,467,23,391.944325482,6.5324054247
+Equal-ID weighted,467,23,359.218527588,5.9869754598

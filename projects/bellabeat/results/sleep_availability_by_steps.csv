@@ -1,0 +1,3 @@
+step_record_group,participant_days,distinct_participant_ids,days_with_sleep_records,ids_with_sleep_records,percentage_of_days_with_sleep_records
+Positive-step days,818,33,446,23,54.5232273839
+Zero-step days,170,17,1,1,0.588235294118

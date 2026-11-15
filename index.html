@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Francis Amankwaa's data analytics portfolio. Explore a BigQuery case study of Fitbit activity and recorded sleep, grounded in a nursing and research background.">
+  <meta name="theme-color" content="#173c3c">
+  <title>Francis Amankwaa | Data analytics portfolio</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="brand" href="./" aria-label="Francis Amankwaa home"><span class="monogram" aria-hidden="true">fa.</span><span>Francis Amankwaa<small>Data analytics portfolio</small></span></a>
+    <nav aria-label="Main navigation"><a href="#work">Work</a><a href="#approach">Approach</a><a href="#about">About</a><a class="github-link" data-github-profile hidden href="#">GitHub →</a></nav>
+  </header>
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="intro-title">
+      <div class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Based in Ghana · Nursing and research</div>
+      <h1 id="intro-title">A research perspective.<br><em>A closer look at data.</em></h1>
+      <div class="hero-bottom"><p>I'm Francis, a nurse and research assistant building a data analytics portfolio. I use SQL, careful data checks and clear charts to make findings easier to understand and use.</p><a class="button button-dark" href="#work">Explore my work <span aria-hidden="true">↓</span></a></div>
+      <div class="tool-line" aria-label="Tools and methods"><span>SQL / BigQuery</span><span>Data preparation</span><span>Research methods</span><span>Data visualisation</span></div>
+    </section>
+    <section class="work-section wrap section-space" id="work" aria-labelledby="work-title">
+      <div class="section-heading"><p class="eyebrow">Selected work / 01</p><h2 id="work-title">Following the evidence.</h2><p>A complete case study, from the business question to recommendations that can be tested.</p></div>
+      <article class="feature-project">
+        <div class="project-copy">
+          <div class="project-meta"><span>Google Data Analytics capstone</span><span>2026</span></div>
+          <h3>Bellabeat Leaf</h3>
+          <p class="project-subtitle">What activity and sleep records can tell us about smart-device use.</p>
+          <p>I combined 11 Fitbit export files, analysed the daily records in BigQuery and examined how missing data changes the story.</p>
+          <div class="tag-list"><span>SQL</span><span>Data cleaning</span><span>Sensitivity analysis</span></div>
+          <div class="project-actions"><a class="button button-dark" href="projects/bellabeat/">Read the case study <span aria-hidden="true">→</span></a><a class="text-link" href="projects/bellabeat/#sql">Explore the SQL</a></div>
+        </div>
+        <div class="project-visual" aria-label="Sleep-data availability on positive-step and zero-step days">
+          <p class="eyebrow">A finding worth questioning</p><h4>Which days have sleep records?</h4>
+          <div class="finding-row"><div><span>Positive-step days</span><strong>54.5<small>%</small></strong></div><div class="finding-track"><span style="--bar:54.5%"></span></div><small>446 of 818 recorded days</small></div>
+          <div class="finding-row muted"><div><span>Zero-step days</span><strong>0.6<small>%</small></strong></div><div class="finding-track"><span style="--bar:0.6%"></span></div><small>1 of 170 recorded days</small></div>
+          <p class="visual-note">The available sleep records are a selected subset of the activity data.</p>
+          <div class="visual-stats"><div><strong>11</strong><span>source files</span></div><div><strong>988</strong><span>activity days</span></div><div><strong>33</strong><span>activity IDs</span></div></div>
+        </div>
+      </article>
+    </section>
+    <section class="approach-section section-space" id="approach" aria-labelledby="approach-title"><div class="wrap">
+      <div class="section-heading"><p class="eyebrow">How I work</p><h2 id="approach-title">Understand the records<br>before interpreting the result.</h2></div>
+      <div class="approach-grid"><article><span class="step-number">01</span><h3>Start with the question</h3><p>Define the decision, the audience and the observations needed to answer it.</p></article><article><span class="step-number">02</span><h3>Check the structure</h3><p>Confirm what each row represents. Review duplicates, missing values, dates and recording coverage.</p></article><article><span class="step-number">03</span><h3>Make the reasoning visible</h3><p>Compare reasonable assumptions, explain uncertainty and connect each recommendation to evidence.</p></article></div>
+    </div></section>
+    <section class="about-section wrap section-space" id="about" aria-labelledby="about-title">
+      <div><p class="eyebrow">About me</p><h2 id="about-title">From nursing questions<br>to analytical thinking.</h2></div>
+      <div class="about-copy"><p>My background is in nursing, with a BSc in Nursing from Kwame Nkrumah University of Science and Technology. I support research and teaching and have an interest in cardiovascular health, health services and practical uses of data.</p><p>This portfolio documents my growing analytics practice. The Bellabeat project brings together a business question, reproducible SQL, data-quality decisions and a clear account of what the findings can support.</p><a class="text-link" href="projects/bellabeat/reports/Bellabeat_Case_Study.pdf">Read my featured project report <span aria-hidden="true">→</span></a></div>
+    </section>
+  </main>
+  <footer class="site-footer wrap"><div><span class="monogram" aria-hidden="true">fa.</span><p>Francis Amankwaa<br><small>Nursing, research and data analytics</small></p></div><a href="#main">Back to top ↑</a><small>© 2026 Francis Amankwaa</small></footer>
+</body>
+</html>

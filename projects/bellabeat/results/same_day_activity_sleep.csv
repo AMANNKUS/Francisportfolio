@@ -1,0 +1,3 @@
+sample,matched_participant_days,distinct_participant_ids,mean_daily_steps,mean_recorded_asleep_minutes,same_day_step_sleep_correlation
+All matched full-coverage days,447,23,8191.41163311,399.693512304,-0.113133906602
+Positive-step matched full-coverage days,446,23,8209.77802691,398.860986547,-0.103939830762

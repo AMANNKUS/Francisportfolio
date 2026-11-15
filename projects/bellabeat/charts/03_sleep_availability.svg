@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="208.8pt" viewBox="0 0 576 208.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-13T17:01:34.389016</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 208.8 
+L 576 208.8 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 155.52 146.16 
+L 564.48 146.16 
+L 564.48 52.2 
+L 155.52 52.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 155.52 146.16 
+L 155.52 52.2 
+" clip-path="url(#p2926080ef0)" style="fill: none; stroke: #e6ebee; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m3133f0adb9" d="M 0 0 
+L 0 3.5 
+" style="stroke: #44525c; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3133f0adb9" x="155.52" y="146.16" style="fill: #44525c; stroke: #44525c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #44525c" x="155.52" y="161.518281" transform="rotate(-0 155.52 161.518281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 237.312 146.16 
+L 237.312 52.2 
+" clip-path="url(#p2926080ef0)" style="fill: none; stroke: #e6ebee; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3133f0adb9" x="237.312" y="146.16" style="fill: #44525c; stroke: #44525c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #44525c" x="237.312" y="161.518281" transform="rotate(-0 237.312 161.518281)">20</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 319.104 146.16 
+L 319.104 52.2 
+" clip-path="url(#p2926080ef0)" style="fill: none; stroke: #e6ebee; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m3133f0adb9" x="319.104" y="146.16" style="fill: #44525c; stroke: #44525c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #44525c" x="319.104" y="161.518281" transform="rotate(-0 319.104 161.518281)">40</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 400.896 146.16 
+L 400.896 52.2 
+" clip-path="url(#p2926080ef0)" style="fill: none; stroke: #e6ebee; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m3133f0adb9" x="400.896" y="146.16" style="fill: #44525c; stroke: #44525c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #44525c" x="400.896" y="161.518281" transform="rotate(-0 400.896 161.518281)">60</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 482.688 146.16 
+L 482.688 52.2 
+" clip-path="url(#p2926080ef0)" style="fill: none; stroke: #e6ebee; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m3133f0adb9" x="482.688" y="146.16" style="fill: #44525c; stroke: #44525c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #44525c" x="482.688" y="161.518281" transform="rotate(-0 482.688 161.518281)">80</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 564.48 146.16 
+L 564.48 52.2 
+" clip-path="url(#p2926080ef0)" style="fill: none; stroke: #e6ebee; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m3133f0adb9" x="564.48" y="146.16" style="fill: #44525c; stroke: #44525c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #44525c" x="564.48" y="161.518281" transform="rotate(-0 564.48 161.518281)">100</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #26343f" x="360" y="175.784297" transform="rotate(-0 360 175.784297)">Percentage of days with available sleep records</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26343f" x="147.52" y="75.444702" transform="rotate(-0 147.52 75.444702)">Positive-step days</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26343f" x="147.52" y="131.273579" transform="rotate(-0 147.52 131.273579)">Zero-step days</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 155.52 56.470909 
+L 378.498191 56.470909 
+L 378.498191 86.060214 
+L 155.52 86.060214 
+z
+" clip-path="url(#p2926080ef0)" style="fill: #316d73"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 155.52 112.299786 
+L 157.925647 112.299786 
+L 157.925647 141.889091 
+L 155.52 141.889091 
+z
+" clip-path="url(#p2926080ef0)" style="fill: #8b969e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 155.52 146.16 
+L 564.48 146.16 
+" style="fill: none; stroke: #b8c2ca; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="385.859471" y="74.024936" transform="rotate(-0 385.859471 74.024936)">54.5% (446/818 days)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="165.286927" y="129.853814" transform="rotate(-0 165.286927 129.853814)">0.6% (1/170 days)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start" x="155.52" y="38.2" transform="rotate(-0 155.52 38.2)">Sleep-data availability differs by step status</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #56626b" x="155.52" y="202.536" transform="rotate(-0 155.52 202.536)">Full activity-coverage sample. An ID may contribute days to both groups.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2926080ef0">
+   <rect x="155.52" y="52.2" width="408.96" height="93.96"/>
+  </clipPath>
+ </defs>
+</svg>
